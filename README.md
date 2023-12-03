@@ -42,4 +42,4 @@ python -m notebook
 ```
 
 ## Questions
-Feel free to share your comments and thoughts regarding this project or ask me your question via my email address: "a" + __MY LAST NAME__ + "@umass.edu"
+Feel free to share your comments and thoughts regarding this project or ask me your question via my email address: "a" + __MY LASTNAME__ + "@umass.edu"
