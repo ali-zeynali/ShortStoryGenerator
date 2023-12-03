@@ -1,11 +1,8 @@
+![Version](https://img.shields.io/badge/Version-1.0.1-orange) ![Python](https://img.shields.io/badge/Python-%203.8%20-blue) [![numpy](https://img.shields.io/badge/numpy-1.24.4-cc00ff)](https://pypi.org/project/numpy/) [![pandas](https://img.shields.io/badge/pandas-2.0.2-ffff00)](https://pypi.org/project/pandas/)  [![keras](https://img.shields.io/badge/Keras-2.13.1-FF0000)](https://pypi.org/project/pandas/) [![tensorflow](https://img.shields.io/badge/TensorFlow-2.13.0-FF6F00)](https://pypi.org/project/pandas/)  
+
 # Text Generation using bidirectional LSTM
 
 This repository contains a deep learning project that generates text based on a provided dataset of short stories using LSTM (Long Short-Term Memory) networks. The model takes keywords as input and generates short stories containing those keywords.
-
-![Version](https://img.shields.io/badge/Version-1.0.1-orange) ![Python](https://img.shields.io/badge/Python-%203.8%20-blue) [![numpy](https://img.shields.io/badge/numpy-1.24.4-cc00ff)](https://pypi.org/project/numpy/) [![pandas](https://img.shields.io/badge/pandas-2.0.2-ffff00)](https://pypi.org/project/pandas/)  [![keras](https://img.shields.io/badge/Keras-2.13.1-FF0000)](https://pypi.org/project/pandas/) [![tensorflow](https://img.shields.io/badge/TensorFlow-2.13.0-FF6F00)](https://pypi.org/project/pandas/)  
-
-
-
 
 
 ![ModelParams](figs/model.png)
